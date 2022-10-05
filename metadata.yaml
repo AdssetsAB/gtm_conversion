@@ -1,5 +1,5 @@
 homepage: "https://www.adssets.com"
 documentation: "https://github.com/AdssetsAB/gtm_conversion/blob/main/Readme.md"
 versions:
-  - sha: 2964b9a5033bbc0d14287cf44ab3505852ed3d81
+  - sha: 311ef620b898c0a26c664b3a02c29e7580630f77
     changeNotes: Initial release.
