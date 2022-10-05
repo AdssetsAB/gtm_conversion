@@ -4,10 +4,10 @@ Template designed for Adssets/ACM ad server in order to gather conversion and cu
 
 ## How to use
 
-1 - Set up the template in your GTM account
-2 - Create a new tag and select the template
-3 - Fill the fields with the information provided by your Adssets/ACM account manager (AdvertiserId can be found in the URL of ACM when listing the campaigns for a given advertiser).
-4 - Save the tag and publish the container.
+1. Set up the template in your GTM account
+2. Create a new tag and select the template
+3. Fill the fields with the information provided by your Adssets/ACM account manager (AdvertiserId can be found in the URL of ACM when listing the campaigns for a given advertiser).
+4. Save the tag and publish the container.
 
 ## Parameter description
 
