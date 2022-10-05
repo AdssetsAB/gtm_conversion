@@ -1,0 +1,5 @@
+homepage: "https://www.adssets.com"
+documentation: "https://github.com/AdssetsAB/gtm_conversion/Readme.md"
+versions:
+  - sha: 
+    changeNotes: Initial release.
