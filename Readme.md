@@ -13,8 +13,9 @@ Template designed for Adssets/ACM ad server in order to gather conversion and cu
 
 - AdvertiserId: The ID of the advertiser in ACM
 - Send Event: The name of the event to be sent when this tag is triggered and there is an incomming request from a campaign with conversions enabled.
-- ProductId: The ID of the product in the FEED uploaded in ACM for the campaign. If null no product information will be sent.
-- Product viewed or bought: If the product id is set the tag can specify if the event should trigger the bought or the viewed pixel for this tag to be used for retargeting propouses.
+- Type of ID: The type of ID to be sent.
+- Id: The ID of the item in the FEED uploaded in ACM for the campaign. If null no information will be sent.
+- Interaction: If the id is set the tag can specify if the event should trigger the interaction pixel for this tag to be used for retargeting propouses.
 - DSP Retargeting: Allows the user to specify if the tag should trigger the pixel of the specified DSP for retargeting propouses or should not use any id.
 
 ## Consents
